@@ -1,7 +1,7 @@
 
 # Takeaway Business Data Analysis Dashboard Using PowerBI
 
-This project involves developing a Power BI dashboard to analyze transactional data from a takeaway business. The primary objective is to generate actionable insights to drive strategic decision-making and enhance business performance.
+This project involves developing a Power BI dashboard to analyse transactional data from a takeaway business. The primary objective is to generate actionable insights to drive strategic decision-making and enhance business performance.
 
 
 ## How to Use the Dashboard
@@ -9,7 +9,7 @@ This project involves developing a Power BI dashboard to analyze transactional d
 1. Access the dashboard and dataset from [here](https://drive.google.com/drive/folders/1Zub-KxbnS79-cdNVbASx-3L4XcCiS55g?usp=sharing).
 2. Download the `.pbix` file and dataset from the provided link.
 3. Open the `.pbix` file in Power BI Desktop.
-4. Explore the visuals to gain insights into sales performance, product analysis and bundling recommendations.
+4. Explore the visualisations to gain insights into sales performance, product analysis and bundling recommendations.
 
 
 
@@ -28,7 +28,7 @@ The dataset includes:
 The stakeholders requested a dashboard addressing the following:
 
 1. **Business Overview**:
-   - Analyze key metrics such as sales, orders, discounts, and average order values.
+   - Analyse key metrics such as sales, orders, discounts, and average order values.
    - Understand weekly trends and identify high-performing and low-performing locations.
 
 2. **Product Evaluation**:
@@ -57,7 +57,7 @@ The stakeholders requested a dashboard addressing the following:
    - Pairing products based on historical data.
 
 4. **Opportunities for Action**:
-   - Highlighting strategies to optimize revenue and reduce inefficiencies.
+   - Highlighting strategies to optimise revenue and reduce inefficiencies.
 
 
 
@@ -88,9 +88,9 @@ The following measures were implemented to meet the stakeholder objectives:
 ## Insights and Recommendations
 
 1. **Focus on Popular Dishes**:
-   - Concentrate marketing efforts on the top-selling dishes to maximize revenue and improve customer satisfaction.
+   - Concentrate marketing efforts on the top-selling dishes to maximise revenue and improve customer satisfaction.
 
-2. **Optimize Underperforming Locations**:
+2. **Optimise Underperforming Locations**:
    - Identify and support sites with below-average performance through targeted promotions or operational improvements.
 
 3. **Streamline the Menu**:
