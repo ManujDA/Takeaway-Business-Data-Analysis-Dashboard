@@ -1,10 +1,26 @@
 
 # Takeaway Business Data Analysis Dashboard
 
-## Overview
-
 This project involves developing a Power BI dashboard to analyze transactional data from a takeaway business. The primary objective is to generate actionable insights to drive strategic decision-making and enhance business performance.
 
+
+## How to Use the Dashboard
+
+1. Access the dashboard and dataset from [Google Drive](https://drive.google.com/drive/folders/1Zub-KxbnS79-cdNVbASx-3L4XcCiS55g?usp=sharing).
+2. Download the `.pbix` file and dataset from the provided link.
+3. Open the `.pbix` file in Power BI Desktop.
+4. Explore the visuals to gain insights into sales performance, product analysis, and bundling recommendations.
+
+---
+
+## Dataset Description
+
+The dataset includes:
+1. **Orders Table**:
+   - Contains transactional data with `deliverect_id` as the primary key.
+2. **Line Items Table**:
+   - Provides details on items ordered, grouped by `grandparent_id`.
+  
 ---
 
 ## Stakeholder Requirements
@@ -21,7 +37,6 @@ The stakeholders requested a dashboard addressing the following:
 
 3. **Product Bundling**:
    - Recommend products suitable for bundling.
-   - Provide pricing strategies for potential bundles.
 
 4. **Opportunities for Growth**:
    - Identify data-driven opportunities to improve sales and profitability.
@@ -40,7 +55,6 @@ The stakeholders requested a dashboard addressing the following:
 
 3. **Bundling Analysis**:
    - Pairing products based on historical data.
-   - Calculating optimal bundle pricing using margin analysis.
 
 4. **Opportunities for Action**:
    - Highlighting strategies to optimize revenue and reduce inefficiencies.
@@ -68,7 +82,6 @@ The following measures were implemented to meet the stakeholder objectives:
 
 5. **Bundle Analysis**:
    - **Bundle Suitability Score**: Products frequently purchased together.
-   - **Bundle Pricing**: Based on cost-plus or competitive pricing strategies.
 
 ---
 
@@ -94,32 +107,7 @@ The following measures were implemented to meet the stakeholder objectives:
 
 ---
 
-## How to Use the Dashboard
-
-1. Access the dashboard and dataset from [Google Drive](https://drive.google.com/drive/folders/1Zub-KxbnS79-cdNVbASx-3L4XcCiS55g?usp=sharing).
-2. Download the `.pbix` file and dataset from the provided link.
-3. Open the `.pbix` file in Power BI Desktop.
-4. Explore the visuals to gain insights into sales performance, product analysis, and bundling recommendations.
-
----
-
-## Repository Structure
-
-```
-Takeaway-Business-Data-Analysis/
-├── README.md
-└── Documentation/
-    └── Stakeholder_Requirements.docx
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License.
 
----
-
-## Contact
-
-For any inquiries, feel free to reach out via [Your Contact Information].
