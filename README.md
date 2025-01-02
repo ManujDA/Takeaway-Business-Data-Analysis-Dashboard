@@ -6,10 +6,10 @@ This project involves developing a Power BI dashboard to analyze transactional d
 
 ## How to Use the Dashboard
 
-1. Access the dashboard and dataset from [Google Drive](https://drive.google.com/drive/folders/1Zub-KxbnS79-cdNVbASx-3L4XcCiS55g?usp=sharing).
+1. Access the dashboard and dataset from [here](https://drive.google.com/drive/folders/1Zub-KxbnS79-cdNVbASx-3L4XcCiS55g?usp=sharing).
 2. Download the `.pbix` file and dataset from the provided link.
 3. Open the `.pbix` file in Power BI Desktop.
-4. Explore the visuals to gain insights into sales performance, product analysis, and bundling recommendations.
+4. Explore the visuals to gain insights into sales performance, product analysis and bundling recommendations.
 
 ---
 
