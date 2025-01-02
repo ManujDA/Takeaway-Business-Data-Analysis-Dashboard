@@ -1,5 +1,5 @@
 
-# Takeaway Business Data Analysis Dashboard
+# Takeaway Business Data Analysis Dashboard Using PowerBI
 
 This project involves developing a Power BI dashboard to analyze transactional data from a takeaway business. The primary objective is to generate actionable insights to drive strategic decision-making and enhance business performance.
 
