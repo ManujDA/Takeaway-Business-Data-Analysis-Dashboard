@@ -41,11 +41,8 @@ The stakeholders requested a dashboard addressing the following:
 4. **Opportunities for Growth**:
    - Identify data-driven opportunities to improve sales and profitability.
 
+## Dashboard Development 
 
-
-## Dashboard Development and Measures
-
-### Key Features
 1. **Trends and Performance**:
    - Weekly-level trend analysis of sales and orders.
    - Comparative metrics for site performance.
@@ -59,9 +56,7 @@ The stakeholders requested a dashboard addressing the following:
 4. **Opportunities for Action**:
    - Highlighting strategies to optimise revenue and reduce inefficiencies.
 
-
-
-### Measures and Calculations
+## Measures
 
 The following measures were implemented to meet the stakeholder objectives:
 
