@@ -11,7 +11,7 @@ This project involves developing a Power BI dashboard to analyze transactional d
 3. Open the `.pbix` file in Power BI Desktop.
 4. Explore the visuals to gain insights into sales performance, product analysis and bundling recommendations.
 
----
+
 
 ## Dataset Description
 
@@ -21,7 +21,7 @@ The dataset includes:
 2. **Line Items Table**:
    - Provides details on items ordered, grouped by `grandparent_id`.
   
----
+
 
 ## Stakeholder Requirements
 
@@ -41,7 +41,7 @@ The stakeholders requested a dashboard addressing the following:
 4. **Opportunities for Growth**:
    - Identify data-driven opportunities to improve sales and profitability.
 
----
+
 
 ## Dashboard Development and Measures
 
@@ -59,7 +59,7 @@ The stakeholders requested a dashboard addressing the following:
 4. **Opportunities for Action**:
    - Highlighting strategies to optimize revenue and reduce inefficiencies.
 
----
+
 
 ### Measures and Calculations
 
@@ -83,7 +83,7 @@ The following measures were implemented to meet the stakeholder objectives:
 5. **Bundle Analysis**:
    - **Bundle Suitability Score**: Products frequently purchased together.
 
----
+
 
 ## Insights and Recommendations
 
@@ -105,7 +105,7 @@ The following measures were implemented to meet the stakeholder objectives:
 6. **Experiment with Pricing Strategies**:
    - Test competitive and value-based pricing for bundles to attract diverse customer segments.
 
----
+
 
 ## License
 
