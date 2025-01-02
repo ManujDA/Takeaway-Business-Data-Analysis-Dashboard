@@ -26,19 +26,11 @@ The dataset includes:
 ## Stakeholder Requirements
 
 The stakeholders requested a dashboard addressing the following:
-
-1. **Business Overview**:
    - Analyse key metrics such as sales, orders, discounts, and average order values.
    - Understand weekly trends and identify high-performing and low-performing locations.
-
-2. **Product Evaluation**:
    - Identify critical products contributing to sales.
    - Highlight underperforming products that may need to be removed from the menu.
-
-3. **Product Bundling**:
    - Recommend products suitable for bundling.
-
-4. **Opportunities for Growth**:
    - Identify data-driven opportunities to improve sales and profitability.
 
 ## Dashboard Development 
@@ -47,11 +39,18 @@ The stakeholders requested a dashboard addressing the following:
    - Weekly-level trend analysis of sales and orders.
    - Comparative metrics for site performance.
 
+![Take_1](https://github.com/user-attachments/assets/95269d23-561a-45b5-8542-72114fefe313)
+
 2. **Product Insights**:
    - Analysis of top-performing and underperforming products.
+  
+![Take_2](https://github.com/user-attachments/assets/4f10fa6e-8814-49a5-a764-ee1178587f76)
 
 3. **Bundling Analysis**:
+
    - Pairing products based on historical data.
+
+![Take_3](https://github.com/user-attachments/assets/13e020e7-5c1e-47ef-8ee2-c2f1d78234a5)
 
 4. **Opportunities for Action**:
    - Highlighting strategies to optimise revenue and reduce inefficiencies.
@@ -80,27 +79,51 @@ The following measures were implemented to meet the stakeholder objectives:
 
 
 
-## Insights and Recommendations
+## Insights
 
-1. **Focus on Popular Dishes**:
-   - Concentrate marketing efforts on the top-selling dishes to maximise revenue and improve customer satisfaction.
+1. **Sales and Orders**:
+   - The company has achieved 153K total orders with a total sales figure of £3.69M. The AOV (Average Order Value) stands at £24.06.
+     
+2. **Weekly Trends**:
+   - Sales appear to follow a generally upward trend with a slight dip towards the end. This might indicate seasonality, external factors or promotional effects. Also, Total Sales and Total Discounts are positively correlated with each other. Total Sales and Total Discounts diverged the most when the Week was 7, when Total Sales were £441,056.73 higher than Total Discounts.
 
-2. **Optimise Underperforming Locations**:
-   - Identify and support sites with below-average performance through targeted promotions or operational improvements.
+3. **Site Performance**:
+   - Top Performing Sites: Sites like Site4, Site6, Site12 and Site13 are leading with sales above £180K. These sites are performing exceptionally well, contributing significantly to the total revenue.
+     
+4. **Underperforming Sites**:
+   - Sites like Site610, Site152, Site63 and Site8 have the lowest sales figures, with Site8 bringing in £52K. These sites requires a closer analysis to understand the low performance, whether it's due to lower traffic, less effective promotions or any external factor.
 
-3. **Streamline the Menu**:
-   - Remove dishes with low sales to simplify the menu and improve operational efficiency.
+5. **Underperforming Products**:
+   - Items like Olive oil, Basil Pesto Sauce, Prawn and Nduja Ravioli, Gnocci, Spinach Fusilli and Giant Nocellara Olives and many more items are at the bottom part with sales around just £0 to £1560. These products may not be resonating well with the customer base.
 
-4. **Introduce Bundles**:
-   - Create value bundles based on popular combinations of dishes frequently ordered together.
+6. **Popular Bundles**:
+   - 'Ultimate' Lasagne and Spaghetti Carbonara bundles are the most frequently ordered, indicating a preference for these combinations. â€"Ultimate' Lasagne with Beef & Barolo RagÄ', Grana Padano Shavings accounted for 2.39% of Total Sales. 
 
-5. **Leverage Weekly Patterns**:
-   - Schedule promotions during high-traffic days and address slower days with targeted campaigns.
+7. **Price Strategy**:
+   - The pricing for bundles should be based on the sum of the individual item prices, minus a small discount to incentivize the bundle purchase. This discount should be carefully calculated to maintain profitability.
+     
+## Recommendations
 
-6. **Experiment with Pricing Strategies**:
-   - Test competitive and value-based pricing for bundles to attract diverse customer segments.
+1. **Targeted Marketing**:
+   - Consider running location-specific campaigns to boost their sales. Focus marketing efforts on top-selling items like Carbonara and ‘Ultimate' Lasagne with Beef & Barolo Ragù. Highlight these dishes in promotions, social media campaigns and special offers to further boost their sales.
+     
+2. **Site Comparison Analysis**:
+   - Analyse top-performing sites like Site 4 to understand what drives their success. Implement these strategies at underperforming locations, such as enhancing customer service, optimizing product availability, and tailoring local promotions.
 
+3. **Product Rationalization**:
+   - Consider removing or rebranding the lowest-performing items. Increase visibility of successful bundles and experiment with bundling underperforming products with popular items to increase their sales.
 
+4. **Dynamic Pricing**:
+   - Use historical sales data to set dynamic bundle prices. If two items are frequently bought together but are also top sellers individually, offer a small discount when bundled to avoid cutting into profits.
+  
+5. **Tailor Discounts Strategically**:
+   -  Review the discount strategy to ensure it supports profitability. Offer targeted discounts on lower-performing products to boost their sales without heavily discounting top sellers. Encourage customers to spend more by offering attractive bundles, upselling complementary items and implementing loyalty programs that reward higher spending.
+  
+6. **Leverage Customer Feedback**:
+   - Collect and analyze customer feedback to identify areas for improvement, particularly in product offerings and service quality. Use insights to make data-driven adjustments that align with customer preferences.
+  
+7. **Introduce Personalized Menus by Region**:
+   - Develop region-specific menus that cater to local tastes and preferences. Promote these personalized offerings with targeted discounts and special promotions, creating a more tailored and appealing experience for customers in different regions.
 
 ## License
 
